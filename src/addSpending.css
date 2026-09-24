@@ -1,0 +1,56 @@
+.add-form{
+    padding: 2rem;
+    display: block;
+}
+input::placeholder{
+    font-size: 20px;
+}
+input,label,select{
+    display: block;
+    font-size: 23px;
+    padding: 0.5rem;
+}
+label{
+    font-size: 15px;
+    font-family: "Trebuchet MS", sans-serif;
+}
+select{
+    font-size: 15px;
+}
+option{
+    font-size: 23px;
+}
+form {
+    width:fit-content;
+    button{
+    font-size: 23px;
+    padding: 0.5rem;
+   }
+
+}
+input,input:focus,select,select:focus{
+    border: 2px solid rgb(26, 92, 112);
+    border-radius: 0.5rem;
+    outline:none;
+}
+svg{
+    color: black;
+    margin-left: 18rem;
+    margin-top: -1.5rem;
+    margin-right: -3.5rem;
+}
+.spent-submit{
+    font-size: 20px;
+        font-family: "Poppins", sans-serif;
+        border: 2px solid rgb(64, 5, 5);
+        border-radius: 1rem;
+        padding: 0.5rem;
+        background-color: maroon;
+        color: white;
+        letter-spacing: 3px;
+        width: 9rem;
+        height: 3rem;
+        margin-left:4rem;
+        margin-top: 2rem;
+}
+

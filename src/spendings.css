@@ -1,0 +1,86 @@
+.spendings-details{
+    font-family: "Trebuchet MS", sans-serif;
+    background-color:rgb(252, 248, 242);
+    list-style-type: none;
+    border: 3px solid grey;
+    border-radius: 1rem;
+    width:35rem;
+    padding: 1.5rem;
+    padding-bottom: 0.5rem;
+    display: grid;
+    place-content: center;
+    justify-content: space-evenly;
+    column-gap: 2rem;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    p{
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+}
+.spendings{
+    display: grid;
+    place-content: center;
+    gap:1.5rem;
+}
+.category{
+    padding-top: 2rem;
+    padding: 0rem;
+    padding-bottom:-1rem;
+    font-size: 20px;
+    
+}
+.spent-amount{
+    font-size: 27px;
+    font-weight: bolder;
+    color: rgb(152, 45, 45);
+    letter-spacing:1px;
+}
+.time{
+    padding-top: 0.6rem;
+    font-size: 20px;
+}
+.addspending{
+    position: fixed;
+    top: 38rem;
+    padding: 1rem;
+    background-color:rgb(152, 45, 45);
+    color: white;
+    font-size: 20px;
+    margin-left: 80%;
+}
+.add-symbl{
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 2px;
+}
+.overlay{
+    position: fixed;
+    top: 75rem;
+    width: fit-content;
+    margin-top: -60rem;
+    z-index:1000;
+    border: 3.5px solid rgb(136, 71, 71);
+    border-radius: 1rem;
+    background-color: whitesmoke;
+    margin-left:40% ;
+    backdrop-filter: blur(8px);
+}
+.date{
+    display:flex;
+    align-items: center;
+    margin-left:65%;
+    margin-top: 1rem;
+    font-size: 23px;
+    img{
+        height: 30px;
+        width: 25px;
+    }
+    p{
+        margin: 0%;
+    }
+    border: 2.5px solid rgb(203, 200, 200);
+    border-radius: 1rem;
+    width: fit-content;
+    padding: 5px;
+}

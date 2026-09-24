@@ -1,0 +1,142 @@
+{
+  "spendings": [
+    {
+      "amount": "120",
+      "category": "food",
+      "description": "briyani",
+      "date": "14/09/2026",
+      "currentTime": "12:55:55 AM",
+      "id": "6vOgUbUu6wU"
+    },
+    {
+      "amount": "20",
+      "category": "others",
+      "description": "pepsi",
+      "date": "23/09/2026",
+      "currentTime": "11:52:53 PM",
+      "type": "spending",
+      "id": "bsZzLSQ0mz8"
+    },
+    {
+      "amount": "20",
+      "category": "medical",
+      "description": "tablet",
+      "date": "24/09/2026",
+      "currentTime": "1:54:57 AM",
+      "type": "spending",
+      "id": "n_P9kewI4_4"
+    },
+    {
+      "amount": "50",
+      "category": "snacks",
+      "description": "watermelon juice",
+      "date": "24/09/2026",
+      "currentTime": "2:55:39 AM",
+      "type": "spending",
+      "id": "WOPy3s0ozx8"
+    },
+    {
+      "amount": "10",
+      "category": "snacks",
+      "description": "juice",
+      "date": "24/09/2026",
+      "currentTime": "2:46:20 PM",
+      "type": "spending",
+      "id": "GjRiPiYcRFE"
+    }
+  ],
+  "savings": [
+    {
+      "id": "Yn05dwgFAuo"
+    },
+    {
+      "amount": "45",
+      "date": "23/09/2026",
+      "time": "10:27:51 PM",
+      "id": "OHf_tKLBwy4"
+    },
+    {
+      "amount": "10",
+      "date": "24/09/2026",
+      "time": "1:17:39 AM",
+      "type": "savings",
+      "id": "EMSZdfpclkI"
+    },
+    {
+      "amount": "50",
+      "date": "24/09/2026",
+      "time": "2:43:48 PM",
+      "source": "food skipped",
+      "type": "savings",
+      "id": "5U4BevvnM9w"
+    }
+  ],
+  "savingsbalance": [
+    {
+      "balance": 4060,
+      "id": "rZqDkt1ULJY"
+    }
+  ],
+  "totalspending": [
+    {
+      "totalspent": 756,
+      "id": "-aPNIugBKM0"
+    }
+  ],
+  "transactionHistory": [
+    {
+      "amount": 0,
+      "id": "1ojZGECIo-A"
+    },
+    {
+      "amount": "7",
+      "date": "23/09/2026",
+      "time": "11:06:06 PM",
+      "type": "savings",
+      "id": "ImpK90wBME0"
+    },
+    {
+      "amount": "34",
+      "date": "24/09/2026",
+      "time": "1:12:19 AM",
+      "type": "savings",
+      "id": "FtFzbimDmq4"
+    },
+    {
+      "amount": "10",
+      "date": "24/09/2026",
+      "time": "3:19:21 AM",
+      "source": "amn san",
+      "type": "savings",
+      "id": "uOIY54uIZEM"
+    },
+    {
+      "amount": "50",
+      "date": "24/09/2026",
+      "time": "2:43:48 PM",
+      "source": "food skipped",
+      "type": "savings",
+      "id": "7rhLUFlV5rg"
+    },
+    {
+      "amount": "10",
+      "category": "snacks",
+      "description": "juice",
+      "date": "24/09/2026",
+      "currentTime": "2:46:20 PM",
+      "type": "spending",
+      "id": "vAEsJ9kE9do"
+    }
+  ],
+  "transactionDates": [
+    {
+      "date": "23/09/2026",
+      "id": "FAReewNtiUc"
+    },
+    {
+      "date": "24/09/2026",
+      "id": "XhQOY_laVMM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

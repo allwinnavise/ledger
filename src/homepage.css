@@ -1,0 +1,23 @@
+
+.homepage-main{
+    height: 100vh;
+}
+.nav-bar{
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    gap: 8rem;
+    background-color: rgb(80, 69, 7);
+   
+}
+.homeimage{
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+Link{
+    text-decoration: none;
+    
+}
