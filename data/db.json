@@ -9,7 +9,7 @@
   ],
   "savingsbalance": [
     {
-      "balance": 0.00,
+      "balance": 0,
       "id": "rZqDkt1ULJY"
     }
   ],
@@ -21,7 +21,6 @@
   ],
   "transactionHistory": [
     
-   
   ],
   "transactionDates": [
     
